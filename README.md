@@ -1,1 +1,1 @@
-# shooter-game
+Игра Шутер на библиотеке Pygame
